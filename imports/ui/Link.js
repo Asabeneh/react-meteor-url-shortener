@@ -10,7 +10,7 @@ import LinksListFilters from './LinksListFilters';
 export default()=>{
 return(
 <div>
-<PrivateHeader title = "Your Links Lists"/>
+<PrivateHeader title = "Your Link Lists"/>
 <div className = "page-content">
   <LinksListFilters />
   <AddLink/>
